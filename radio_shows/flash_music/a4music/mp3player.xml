@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<musicplayer id="mp002" width="450" height="172" type="normal">
+	<config id="play_start" value="yes" enable="yes"/>
+	<config id="play_mode" value="none" enable="yes"/>
+	<config id="volume" value="50" enable="yes"/>
+	<config id="album_countsongs" value="yes" enable="yes"/>
+	<config id="album_sublist" value="yes" enable="yes"/>
+	<config id="show_songtime" value="yes" enable="yes"/>
+	<config id="gui_title" value="" enable="yes"/>
+	<config id="gui_composer" value="" enable="yes"/>
+	<config id="gui_artistpic" value="" enable="yes"/>
+	<config id="gui_comment" value="" enable="no"/>
+	<caption id="c_choose" enable="yes"><![CDATA[Choose a category:]]></caption>
+	<caption id="c_song_album" enable="yes"><![CDATA[Category:]]></caption>
+	<caption id="c_song_name" enable="yes"><![CDATA[Title:]]></caption>
+	<caption id="c_song_author" enable="yes"><![CDATA[Composer:]]></caption>
+	<caption id="c_load" enable="yes"><![CDATA[LOAD STATUS]]></caption>
+	<caption id="c_progess" enable="yes"><![CDATA[Playing progress]]></caption>
+	<caption id="c_button_prev" enable="yes"><![CDATA[Previous Track]]></caption>
+	<caption id="c_button_play" enable="yes"><![CDATA[Play]]></caption>
+	<caption id="c_button_pause" enable="yes"><![CDATA[Pause]]></caption>
+	<caption id="c_button_stop" enable="yes"><![CDATA[Stop]]></caption>
+	<caption id="c_button_next" enable="yes"><![CDATA[Next Track]]></caption>
+	<caption id="c_button_loop" enable="yes"><![CDATA[Auto Loop Songs]]></caption>
+	<caption id="c_button_volume" enable="yes"><![CDATA[Volume Control]]></caption>
+	<button id="1" text="A4Flash" link="http://www.a4flash.com/" display="yes" enable="yes"/>
+	<button id="2" text="A4Desk" link="http://www.a4desk.com/" display="yes" enable="yes"/>
+	<button id="3" text="FlashiMap" link="http://www.flashimap.com/" display="yes" enable="yes"/>
+	<config id="show_song_url" value="no" enable="yes"/><caption id="c_song_url" enable="yes"><![CDATA[]]></caption><station name="The Radio Slackers"><song><title>The Party, part 1</title><composer>Slacker, Hummer, T-bone, Liz-bian, and Skeeter (60 min)</composer><file>http://</file><artistpic></artistpic><song_url></song_url></song><song><title>The Party, part 2</title><composer>http://bronbarry.com/slacker/Radio Slackers 1.mp3</composer><file>http://</file><artistpic></artistpic><song_url></song_url></song><song><title>The Poetry Contest, part 1</title><composer>Slacker, Hummer, 2ply (40 min)</composer><file>http://bronbarry.com/slacker/Radio Slackers 3.mp3</file><artistpic></artistpic><song_url></song_url></song><song><title>The Poetry Contest, part 2</title><composer>Slacker, Hummer, 2ply (26 min)</composer><file>http://bronbarry.com/slacker/Radio Slackers 4.mp3</file><artistpic></artistpic><song_url></song_url></song></station></musicplayer>

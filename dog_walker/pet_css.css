@@ -1,0 +1,63 @@
+@charset "utf-8";
+/* CSS Document */
+
+.style1 {}
+
+.style2 {}
+
+.style3 {}
+
+.style4 {}
+
+.style5 {}
+
+.style6 {}
+
+#div-1 {
+	position:static;
+	
+}
+
+#div-1a {
+	float:right;
+	width:500px;
+	background-color: #FFCCCC;
+	
+}
+
+#div-1b {
+	clear:none;
+	background-color: #FFCC99;
+	width:auto;
+	position: absolute;
+	top: 320px;
+	left: 20px;
+
+}
+
+#div-1c {
+	clear:both;
+	background-color: #FFCCFF;
+	float: left;
+	position: absolute;
+	left: 20px;
+
+}
+#div-1d {
+	clear:both;
+	background-color: #FFCCFF;
+	float: left;
+	position: absolute;
+	left: 20px;
+
+}
+#div-1e {
+	 
+	background-color: #FFCCFF;
+	float: left;
+	position: absolute;
+	left: 12px;
+	bottom: 339px;
+	top: 20;
+
+}

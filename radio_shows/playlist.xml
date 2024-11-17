@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+	<track>
+		<path>http://bronbarry.com/slacker/Radio Slackers 1.mp3</path>
+		<title>The Party, part 1 -Slacker, Hummer, T-bone, Liz-bian, and Skeeter (60 min)</title>
+	</track>
+	<track>
+		<path>http://bronbarry.com/slacker/Radio Slackers 2.mp3</path>
+		<title>The Party, part 2 -Slacker, Hummer, T-bone, Liz-bian, and Skeeter (20 min)</title>
+	</track>
+	<track>
+		<path>http://bronbarry.com/slacker/Radio Slackers 3.mp3</path>
+		<title>The Poetry Contest, part 1 -Slacker, Hummer, 2ply (40 min)</title>
+	</track>
+	<track>
+		<path>http://bronbarry.com/slacker/Radio Slackers 4.mp3</path>
+		<title>The Poetry Contest, part 2 -Slacker, Hummer, 2ply (26 min)</title>
+	</track>
+	<track>
+		<path>http://bronbarry.com/slacker/Radio Slackers 5.mp3</path>
+		<title>Goofing on Keanu -Slacker, Hummer, T-bone(25 min)</title>
+	</track>
+	<track>
+		<path>http://bronbarry.com/slacker/Radio Slackers 6.mp3</path>
+		<title>Sgt Bob's movie reviews -Slacker, Hummer, Sgt Bob, T-bone (26 min)</title>
+	</track>
+	<track>
+		<path>http://bronbarry.com/slacker/Radio Slackers 7.mp3</path>
+		<title>Movie reviews, more goofing on Keanu, part 1 (25 min)</title>
+	</track>
+	<track>
+		<path>http://bronbarry.com/slacker/Radio Slackers 8.mp3</path>
+		<title>Win a Date with Carol, part 2 -Slacker, Hummer, T-bone (30 min)
+		</title>	
+    <track>
+		<path>http://bronbarry.com/slacker/Radio Slackers 9.mp3</path>
+		<title>Bad Fast Food News, part 1
+		</title>
+	</track>
+	<track>
+		<path>http://bronbarry.com/slacker/Radio Slackers 10.mp3</path>
+		<title>Bad Fast Food News, part 2 (55 min) -Slacker, Hummer, Sgt. Bob, Rhino, Tazman</title>
+	</track>
+		<track>
+		<path>http://bronbarry.com/slacker/Radio Slackers 11.mp3</path>
+		<title>Conspiracy Nut calls in (42 min) -Slacker, Hummer, Sgt. Bob, Rhino, Tazman</title>
+	</track>
+		<track>
+		<path>http://bronbarry.com/slacker/Radio Slackers 12.mp3</path>
+		<title>Win a date with Carol, part 1 (38 min) -Slacker, Hummer, Sgt. Bob, T-bone</title>
+	</track>
+			<track>
+		<path>http://bronbarry.com/slacker/Radio Slackers 13.mp3</path>
+		<title>The Essay Contest, part 1 (40 min) -Slacker, Hummer, 2ply</title>
+	</track>
+		<track>
+		<path>http://bronbarry.com/slacker/Radio Slackers 14.mp3</path>
+		<title>The Essay Contest, part 2 (35 min) -Slacker, Hummer, 2ply</title>
+	</track>
+
+</track></xml>
